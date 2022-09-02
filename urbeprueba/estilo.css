@@ -1,0 +1,108 @@
+*{
+    padding: 0;
+    margin:0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        
+}
+
+#main_header{
+    display: block;
+    color: #573232;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    font-size: 35px;
+
+}
+.sep{
+    font-size: 25px;
+    color: #573232;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+label{
+    font-size: 21px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #3d3b3b;
+    padding: 25px;
+    padding: 20px 20px 20px 20px;
+}
+.linea{
+    border-top: 2px solid rgb(243, 182, 182);
+    height: 30px;
+    max-width: 700px;
+    padding: 0;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  
+
+form{
+    background: #fce5cd;
+    display: block;
+    margin: auto;
+    width: 600px;
+    padding: 25px;
+    border-radius: 5px;
+}
+
+form input{
+    padding: 20px;
+    display: block;
+    margin: auto;
+    font-size: 18px;
+    border-radius: 8px ;
+    margin-bottom: 25px;
+    width: 80%;
+    border-color: #F9A799;
+    
+}
+
+form button{
+    background: #ffdadc;
+    color: #2b2929;
+    font-size: 18px;
+    display: block;
+    margin:auto;
+    margin-bottom: 20px;
+    border: 1px solid #f5afaf;
+    padding: 20px;
+    width: 80%;
+}
+
+body{
+    background: #e9dddb;
+}
+
+
+input.error, textarea.error{
+    padding: 20px;
+    background: #e40404a8;
+    margin: auto;
+    font-size: 18px;
+    margin-bottom: 25px;
+    width: 80%;
+    border:0px;
+
+}
+
+.tabla{
+    margin: 50px 0 0 0;
+    width: 500px;
+    height: auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 6px 6px 6px 6px;
+    border: #2b2929;
+
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;}
+
+  
+  
